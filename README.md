@@ -5,7 +5,7 @@ Repositório com meus certificados profissionais e acadêmicos
   📅 Concluído em 05 de abril de 2025  
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Defesa-de-Rede-IME-2025.pdf?raw=true)
 
----
+
 
 - ✅ **Segurança de Endpoint** – Cisco Networking Academy / SENAC  
   📅 Concluído em 31 de março de 2024  
