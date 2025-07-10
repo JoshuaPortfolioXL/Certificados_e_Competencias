@@ -7,6 +7,6 @@ Repositório com meus certificados profissionais e acadêmicos
 
 ---
 
-- ✅ **Segurança de Endpoint** – Cisco Networking Academy / SENAC  
+- ✅ **Segurança de Endpoint** – Cisco Networking Academy / SENAC
   📅 Concluído em 31 de março de 2024 
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Seguran%C3%A7a%20de%20endpoint%20SENAC.pdf?raw=true)
