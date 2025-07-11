@@ -15,4 +15,4 @@ Repositório com meus certificados profissionais de cybersecurity
 
 ---
 
-# Acadêmicas
+# Acadêmicos
