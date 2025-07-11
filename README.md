@@ -14,3 +14,5 @@ Repositório com meus certificados profissionais de cybersecurity
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Seguran%C3%A7a%20de%20endpoint%20SENAC.pdf?raw=true)
 
 ---
+
+# Acadêmicas
