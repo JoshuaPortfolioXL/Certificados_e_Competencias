@@ -21,9 +21,17 @@ Repositório com meus certificados profissionais de cybersecurity
 
 <br/>
 
-# Documentos Oficiais
+# Certificados Gerais
 
-https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Certificado%20de%20conclus%C3%A3o%20ensino%20m%C3%A9dio.pdf
+
+
+
+
+
+
+<br/>
+
+# Documentos Oficiais
 
 - ✅ **Certificado de conclusão do Ensino Medio** – Mendes de moraes 
   📅 Concluído em 15 de Julho de 2025  
