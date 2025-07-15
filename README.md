@@ -23,11 +23,21 @@ Repositório com meus certificados profissionais de cybersecurity
 
 # Certificados Gerais
 
+- ✅ **Aprendendo a programar** – CodeIOT / Samsumg  
+  📅 Concluído em 29 de Setembro de 2020 
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Aprendendo%20a%20programar.pdf)
 
+- ✅ **Introdução a Internet das Coisas** – CodeIOT / Samsumg  
+  📅 Concluído em 17 de Agosto de 2020 
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Internet%20das%20Coisas.pdf)
 
+- ✅ **Eletrônica: conceitos e componentes básicos** – CodeIOT / Samsumg  
+  📅 Concluído em 05 de Julho de 2020 
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Eletr%C3%B4nica%20-%20conceitos%20e%20componentes%20b%C3%A1sicos.pdf)
 
-
-
+- ✅ **Programação Física com Arduino** – CodeIOT / Samsumg  
+  📅 Concluído em 05 de Julho de 2020 
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Programa%C3%A7%C3%A3o%20f%C3%ADsica%20com%20Arduino.pdf)
 
 <br/>
 
