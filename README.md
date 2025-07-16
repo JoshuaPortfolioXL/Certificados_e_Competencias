@@ -48,5 +48,7 @@ Repositório com meus certificados profissionais de cybersecurity
 
 # Inglês
 
-
+- ✅ **Pre-intermediario** – Seda College / Do zero a fluência  
+  📅 Concluído em 27 de Setembro de 2021  
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/DZAF_Pre-Intermediate_Certificate.pdf)
 
