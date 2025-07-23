@@ -23,7 +23,7 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 # Python
 
-- ✅ ** Automação com Python em tarefas de cibersegurança** – Coursera / Google   
+- ✅ **Automação com Python em tarefas de cibersegurança** – Coursera / Google   
   📅 Concluído em 17 de Junho de 2025   
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Certificado%20-%20Automa%C3%A7%C3%A3o%20com%20Python%20em%20tarefas%20de%20ciberseguran%C3%A7a.pdf)
 
@@ -57,7 +57,9 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 # Inteligência Artificial
 
-
+- ✅ ** Introdução à AI**      
+  📅 Concluído em 23 de Julho de 2025   
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Introdu%C3%A7%C3%A3o%20a%20Intelig%C3%AAncia%20Artificial.pdf)
 
 <br/>
 
