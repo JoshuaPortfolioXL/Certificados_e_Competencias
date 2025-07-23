@@ -21,7 +21,7 @@ Repositório com meus certificados profissionais de cybersecurity
 
 <br/>
 
-  # Python
+# Python
 
 - ✅ ** Automação com Python em tarefas de cibersegurança** – Coursera / Google   
   📅 Concluído em 17 de Junho de 2025   
@@ -35,7 +35,7 @@ Repositório com meus certificados profissionais de cybersecurity
 
   <br/>
 
-  # CODEIOT
+# CODEIOT
 
 - ✅ **Aprendendo a programar** – CodeIOT / Samsumg   
   📅 Concluído em 29 de Setembro de 2020   
@@ -61,3 +61,6 @@ Repositório com meus certificados profissionais de cybersecurity
   📅 Concluído em 27 de Setembro de 2021  
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/DZAF_Pre-Intermediate_Certificate.pdf)
 
+<br/>
+
+# Competências
