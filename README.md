@@ -57,7 +57,7 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 # Inteligência Artificial
 
-- ✅ ** Introdução à AI**      
+- ✅ **Introdução à AI**      
   📅 Concluído em 23 de Julho de 2025   
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Introdu%C3%A7%C3%A3o%20a%20Intelig%C3%AAncia%20Artificial.pdf)
 
