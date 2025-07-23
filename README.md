@@ -55,6 +55,12 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 <br/>
 
+# Inteligência Artificial
+
+
+
+<br/>
+
 # Inglês
 
 - ✅ **Pre-intermediario** – Seda College  
