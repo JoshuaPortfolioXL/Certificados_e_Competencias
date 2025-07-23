@@ -1,5 +1,5 @@
 # Certificados CyberSecurity
-Repositório com meus certificados profissionais de cybersecurity
+Repositório com meus certificados profissionais de cybersecurity e complementares
 
 ---
 
