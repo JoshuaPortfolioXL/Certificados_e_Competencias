@@ -20,8 +20,22 @@ Repositório com meus certificados profissionais de cybersecurity
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Google%20Cybersecurity%20Professional%20Certificate%20V2.pdf)
 
 <br/>
+  # Python
 
-# Certificados Gerais
+ Automação com Python em tarefas de cibersegurança
+- ✅ ** Automação com Python em tarefas de cibersegurança** – Coursera / Google   
+  📅 Concluído em 17 de Junho de 2025   
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Certificado%20-%20Automa%C3%A7%C3%A3o%20com%20Python%20em%20tarefas%20de%20ciberseguran%C3%A7a.pdf)
+
+
+- ✅ **Jornada Python da Hashtag** – Hashtag    
+  📅 Concluído em 10 de outubro de 2024   
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Certificado%20Python%20jornada%20python.PDF)
+
+
+  <br/>
+
+  # CODEIOT
 
 - ✅ **Aprendendo a programar** – CodeIOT / Samsumg   
   📅 Concluído em 29 de Setembro de 2020   
@@ -40,11 +54,6 @@ Repositório com meus certificados profissionais de cybersecurity
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Programa%C3%A7%C3%A3o%20f%C3%ADsica%20com%20Arduino.pdf)
 
 <br/>
-
-# Documentos Oficiais
-
-
-
 
 # Inglês
 
