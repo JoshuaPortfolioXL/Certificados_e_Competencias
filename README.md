@@ -63,8 +63,7 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 - ✅ **Maximize sua produtividade com ferramentas de IA** - Coursera / Google      
   📅 Concluído em 25 de Julho de 2025   
-  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Introdu%C3%A7%C3%A3o%20a%20Intelig%C3%AAncia%20Artificial.pdf)
-  https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Maximize%20sua%20produtividade%20com%20ferramentas%20de%20IA.pdf
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Maximize%20sua%20produtividade%20com%20ferramentas%20de%20IA.pdf)
 
 <br/>
 
