@@ -65,6 +65,9 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
   📅 Concluído em 25 de Julho de 2025       
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Maximize%20sua%20produtividade%20com%20ferramentas%20de%20IA.pdf)    
 
+- ✅ **Descubra a Arte do Prompting** - Coursera / Google         
+  📅 Concluído em 25 de Julho de 2025       
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Maximize%20sua%20produtividade%20com%20ferramentas%20de%20IA.pdf)    
 
 <br/>
 
