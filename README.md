@@ -17,7 +17,7 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 - ✅ **Analista Júnior de Cibersegurança** – Coursera / Google  
   📅 Concluído em 15 de Julho de 2025  
-  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Google%20Cybersecurity%20Professional%20Certificate%20V2.pdf)
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Google%20Cybersecurity%20Extended%20Certificate.pdf)
 
 <br/>
 
