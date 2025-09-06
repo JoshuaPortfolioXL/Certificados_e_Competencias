@@ -59,21 +59,21 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 - ✅ **Introdução à IA** - Coursera / Google    
   📅 Concluído em 23 de Julho de 2025   
-  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Introdu%C3%A7%C3%A3o%20a%20Intelig%C3%AAncia%20Artificial.pdf)   
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Introdu%C3%A7%C3%A3o%20a%20Intelig%C3%AAncia%20Artificial.pdf)      
 
 - ✅ **Maximize sua produtividade com ferramentas de IA** - Coursera / Google         
   📅 Concluído em 25 de Julho de 2025       
-  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Maximize%20sua%20produtividade%20com%20ferramentas%20de%20IA.pdf)    
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Maximize%20sua%20produtividade%20com%20ferramentas%20de%20IA.pdf)       
 
 - ✅ **Descubra a Arte do Prompting** - Coursera / Google         
   📅 Concluído em 25 de Julho de 2025       
-  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Maximize%20sua%20produtividade%20com%20ferramentas%20de%20IA.pdf)    
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Maximize%20sua%20produtividade%20com%20ferramentas%20de%20IA.pdf)       
 
 - ✅ **Use IA Responsavelmente** - Coursera / Google         
   📅 Concluído em 18 de Agosto de 2025       
-  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Use%20AI%20Responsibly.pdf)
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Use%20AI%20Responsibly.pdf)    
 
-  - ✅ **Fique à frente da curva de IA** - Coursera / Google         
+- ✅ **Fique à frente da curva de IA** - Coursera / Google         
   📅 Concluído em 06 de setembro de 2025        
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Stay%20Ahead%20of%20the%20AI%20Curve.pdf)   
   
