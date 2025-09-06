@@ -75,7 +75,7 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
   - ✅ **Fique à frente da curva de IA** - Coursera / Google         
   📅 Concluído em 06 de setembro de 2025        
-  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Use%20AI%20Responsibly.pdf)   
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Stay%20Ahead%20of%20the%20AI%20Curve.pdf)   
   
 <br/>
 
