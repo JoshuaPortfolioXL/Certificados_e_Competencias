@@ -72,6 +72,10 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 - ✅ **Use IA Responsavelmente** - Coursera / Google         
   📅 Concluído em 18 de Agosto de 2025       
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Use%20AI%20Responsibly.pdf)
+
+  - ✅ **Fique à frente da curva de IA** - Coursera / Google         
+  📅 Concluído em 06 de setembro de 2025        
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Use%20AI%20Responsibly.pdf)   
   
 <br/>
 
