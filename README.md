@@ -37,7 +37,7 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 - ✅ **Dispositivos de Rede e Configuração Inicial**     
   📅 Concluído em 09 de Setembro de 2025    
-🔗 [Ver certificado](https://www.credly.com/badges/b9faab0a-0797-4e70-a461-c482e524de6f)      
+🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/3%20%20Dispositivos%20de%20Rede%20e%20Configura%C3%A7%C3%A3o%20Inicial.pdf)      
 
 <br/>
 
