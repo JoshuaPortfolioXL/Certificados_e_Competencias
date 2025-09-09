@@ -22,10 +22,22 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 <br/>
 
 # CISCO Networking Academy
+ 
+- ✅ **Introduction to Cybersecurity**     
+  📅 Concluído em 20 de Janeiro de 2024    
+🔗 [Ver certificado](https://www.credly.com/badges/b9faab0a-0797-4e70-a461-c482e524de6f)   
 
+---
 
+- ✅ **Conceitos Básicos de Redes**      
+  📅 Concluído em 17 de Outubro de 2024     
+🔗 [Ver certificado](https://www.credly.com/badges/b9faab0a-0797-4e70-a461-c482e524de6f)    
 
+---
 
+- ✅ **Dispositivos de Rede e Configuração Inicial**     
+  📅 Concluído em 09 de Setembro de 2025    
+🔗 [Ver certificado](https://www.credly.com/badges/b9faab0a-0797-4e70-a461-c482e524de6f)      
 
 <br/>
 
