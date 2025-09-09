@@ -25,7 +25,7 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
  
 - ✅ **Introduction to Cybersecurity**     
   📅 Concluído em 20 de Janeiro de 2024    
-🔗 [Ver certificado](https://www.credly.com/badges/b9faab0a-0797-4e70-a461-c482e524de6f)   
+🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/1%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Ciberseguran%C3%A7a.pdf)   
 
 ---
 
