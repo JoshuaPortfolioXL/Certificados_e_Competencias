@@ -31,7 +31,7 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 - ✅ **Conceitos Básicos de Redes**      
   📅 Concluído em 17 de Outubro de 2024     
-🔗 [Ver certificado](https://www.credly.com/badges/b9faab0a-0797-4e70-a461-c482e524de6f)    
+🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/2%20%20Conceitos%20B%C3%A1sicos%20de%20Redes.pdf)    
 
 ---
 
