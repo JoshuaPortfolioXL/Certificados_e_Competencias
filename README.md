@@ -21,7 +21,7 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 <br/>
 
-# CISCO Network Academy
+# CISCO Networking Academy
 
 
 
