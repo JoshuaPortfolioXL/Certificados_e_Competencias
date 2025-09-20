@@ -37,7 +37,13 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 - ✅ **Dispositivos de Rede e Configuração Inicial**     
   📅 Concluído em 09 de Setembro de 2025    
-🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/3%20%20Dispositivos%20de%20Rede%20e%20Configura%C3%A7%C3%A3o%20Inicial.pdf)      
+🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/3%20%20Dispositivos%20de%20Rede%20e%20Configura%C3%A7%C3%A3o%20Inicial.pdf)
+
+---
+
+- ✅ **Gerenciamento de ameaças** - Cisco Networking Academy / IME      
+  📅 Concluído em 20 de Setembro de 2025    
+🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/3%20%20Dispositivos%20de%20Rede%20e%20Configura%C3%A7%C3%A3o%20Inicial.pdf)
 
 <br/>
 
