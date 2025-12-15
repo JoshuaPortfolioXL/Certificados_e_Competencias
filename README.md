@@ -45,6 +45,11 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
   📅 Concluído em 20 de Setembro de 2025    
 🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/IME%20-%20Gerenciamento%20de%20Amea%C3%A7as%20Cibern%C3%A9ticas.pdf)
 
+---
+
+- ✅ **Introduction to Networks CCNA** - Cisco Networking Academy /     
+  📅 Concluído em 20 de Setembro de 2025    
+🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/CCNA%20-%20Introduction%20to%20networks.pdf)
 <br/>
 
 # Python
