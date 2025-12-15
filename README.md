@@ -47,7 +47,7 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 ---
 
-- ✅ **Introduction to Networks CCNA** - Cisco Networking Academy /     
+- ✅ **Introduction to Networks CCNA** - Cisco Networking Academy / SENAI SC   
   📅 Concluído em 20 de Setembro de 2025    
 🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/CCNA%20-%20Introduction%20to%20networks.pdf)
 <br/>
