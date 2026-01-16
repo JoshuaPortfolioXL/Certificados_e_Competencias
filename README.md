@@ -116,9 +116,14 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 # Inglês
 
-- ✅ **Pre-intermediario** – Seda College  
+- ✅ **Pre-intermediário** – Seda College  
   📅 Concluído em 27 de Setembro de 2021  
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/DZAF_Pre-Intermediate_Certificate.pdf)
+
+- ✅ **Intermediário** – Cisco Networking Academy / OpenEDG
+  📅 Concluído em 16 de Janeiro de 2026  
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/ENGLISHFORIT%20CERTIFICATE.pdf)
+
 
 <br/>
 
