@@ -58,15 +58,14 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 # Python
 
-- ✅ **Automação com Python em tarefas de cibersegurança** – Coursera / Google   
-  📅 Concluído em 17 de Junho de 2025   
-  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Certificado%20-%20Automa%C3%A7%C3%A3o%20com%20Python%20em%20tarefas%20de%20ciberseguran%C3%A7a.pdf)
-
-
 - ✅ **Jornada Python da Hashtag** – Hashtag    
   📅 Concluído em 10 de outubro de 2024   
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Certificado%20Python%20jornada%20python.PDF)
 
+
+- ✅ **Automação com Python em tarefas de cibersegurança** – Coursera / Google   
+  📅 Concluído em 17 de Junho de 2025   
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Certificado%20-%20Automa%C3%A7%C3%A3o%20com%20Python%20em%20tarefas%20de%20ciberseguran%C3%A7a.pdf)
 
   <br/>
 
@@ -120,8 +119,8 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
   📅 Concluído em 27 de Setembro de 2021  
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/DZAF_Pre-Intermediate_Certificate.pdf)
 
-- ✅ **Intermediário** – Cisco Networking Academy / OpenEDG
-  📅 Concluído em 16 de Janeiro de 2026  
+- ✅ **Intermediário** – Cisco Networking Academy / OpenEDG   
+  📅 Concluído em 16 de Janeiro de 2026   
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/ENGLISHFORIT%20CERTIFICATE.pdf)
 
 
