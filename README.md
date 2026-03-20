@@ -3,9 +3,16 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 ---
 
-- ✅ **Defesa de Rede** – Cisco Networking Academy / IME  
-  📅 Concluído em 05 de Abril de 2025  
+- ✅ **Defesa de Rede** – Cisco Networking Academy / IME   
+  📅 Concluído em 05 de Abril de 2025     
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados/blob/main/Defesa-de-Rede-IME-2025.pdf)
+
+---
+
+
+- ✅ **Analista Júnior de Cibersegurança** – Coursera / Google  
+  📅 Concluído em 15 de Julho de 2025  
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Google%20Cybersecurity%20Extended%20Certificate.pdf)
 
 ---
 
@@ -13,12 +20,6 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
   📅 Concluído em 17 de Março de 2026  
   🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Certificado%20-%20CyberOps%20Associate.pdf)
 
-
----
-
-- ✅ **Analista Júnior de Cibersegurança** – Coursera / Google  
-  📅 Concluído em 15 de Julho de 2025  
-  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Google%20Cybersecurity%20Extended%20Certificate.pdf)
 
 <br/>
 
