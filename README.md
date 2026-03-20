@@ -9,6 +9,9 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
 
 ---
 
+- ✅ **CyberOps Associate** – Cisco Networking Academy / SENAI-SC/CDI 
+  📅 Concluído em 17 de Março de 2026  
+  🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/Certificado%20-%20CyberOps%20Associate.pdf)
 
 
 ---
