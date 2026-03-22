@@ -27,7 +27,7 @@ Repositório com meus certificados profissionais de cybersecurity e complementar
  
 - ✅ **Introdução à cibersegurança** - Cisco Networking Academy / IME      
   📅 Concluído em 20 de Janeiro de 2024       
-🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/1%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Ciberseguran%C3%A7a.pdf)
+🔗 [Ver certificado](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/1%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Ciberseguran%C3%A7a.pdf)   
 🔗 [Ver certificado - IME](https://github.com/JoshuaPortfolioXL/Certificados_e_Competencias/blob/main/1%20-%20INTRODU%C3%87%C3%83O%20A%20CYBERSEGURAN%C3%87A%20-%20IME.pdf)  
 
 ---
